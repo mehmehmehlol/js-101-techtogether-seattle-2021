@@ -11,6 +11,8 @@ I would also include post-workshop exercise and resources that I love in this re
 ## Contents
 - Why I love JavaScript (a.k.a why is it so popular)? Where to include JS in HTML?
 - Quick Demo on how HTML and JavaScript work together (Website Idea: A Passenger Counter with background change)
+✨ Disclaimer: Code Reference from [Scrimba's Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
+
 - Syntax of JavaScript
   - console log the output
   - Data types -- numbers, strings, booleans, array...; 
