@@ -9,16 +9,19 @@ Hi everyone! Welcome to "Intro to JavaScript"! Ideally, I would prefer the cours
 I would also include post-workshop exercise and resources that I love in this repo. Feel free to clone this repo and add more stuff for yourself and use as a reference/refresher -- whatever works for you! :D 
 
 ## Contents
-- Why I love JavaScript (a.k.a why is it so popular)? Where to include JS in HTML? -- demonstrate in code
-- Syntax of JavaScript (create a repl to demonstrate that)
-  - Object types -- numbers, strings, booleans, array; 
+- Why I love JavaScript (a.k.a why is it so popular)? Where to include JS in HTML?
+- Quick Demo on how HTML and JavaScript work together (Website Idea: A Passenger Counter with background change)
+- Syntax of JavaScript
+  - console log the output
+  - Data types -- numbers, strings, booleans, array...; 
+  - Variable Declaration
   - conditions -- if/else, for loops;
   - function;
   - show some Math method?
 - String Template Literal
+
 - Bonus: [to do list for me]: create a simple website -- counter -- demonstrate all the stuff above + querySelector, querySelectorAll, ElementById
 
-Website Idea: A Passenger Counter with background change
 
 ## Post-workshop bonus exercise
 - [ ] 1a. Function: Write a function to generate random background color (hint hint: make use of hex color)
@@ -28,6 +31,10 @@ Website Idea: A Passenger Counter with background change
 
 Side Note: I would recommend to push the code regularly to Github if you are still new to Git. 
 - [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
+
+## Materials Used
+- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js)
+- [Google slides](https://docs.google.com/presentation/d/1kPFWjKlhi4YeF5xuIew6HEKb0WsRfBMzGw2htVahJVE/edit?usp=sharing)
 
 ## Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-javascript/)
