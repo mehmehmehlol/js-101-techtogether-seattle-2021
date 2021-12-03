@@ -26,10 +26,15 @@ I would also include post-workshop exercise and resources that I love in this re
 
 
 ## Post-workshop bonus exercise
-- [ ] 1a. Function: Write a function to generate random background color (hint hint: make use of hex color)
-- [ ] 1b. Try to figure out how to change the background color if you CLICK THE BUTTON
-- [ ] 2a. HTML: First create a button 
-- [ ] 2b. Array Manipulation: When you hit the button, the number displayed on the screen will PUSH to an array
+- [ ] 1a. HTML: Create an "Increment" button 
+- [ ] 1b: Function: Create a function to increment the count
+- [ ] 2a. HTML: Create a "Save" button
+- [ ] 2b. Function + Array Manipulation: When you hit the button, the number displayed on the screen will PUSH to an array
+- [ ] 3. (did not cover this in the workshop) Google what <code>Event Listener</code> is and understand what it is.
+- [ ] 3a. HTML: Create a "Change Background Color" button
+- [ ] 3b. Function: Write a function to generate random background color (hint hint: make use of hex color)
+- [ ] 3c. HTML + JS: Inside that button, think about how you can make use one of the <code>Event Listeners</code> to change the background color when you <strong>CLICK</strong> the button.
+
 
 Side Note: I would recommend to push the code regularly to Github if you are still new to Git. 
 - [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
