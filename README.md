@@ -10,7 +10,7 @@ I would also include post-workshop exercise and resources that I love in this re
 
 ## Contents
 - Why I love JavaScript (a.k.a why is it so popular)? Where to include JS in HTML?
-- Quick Demo on how HTML and JavaScript work together (Website Idea: A Passenger Counter with background change)
+- Quick Demo on how HTML and JavaScript work together (Website Idea: A Passenger Counter with background change) <br/>
 ✨ Disclaimer: Code Reference from [Scrimba's Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
 
 - Syntax of JavaScript
@@ -35,7 +35,7 @@ Side Note: I would recommend to push the code regularly to Github if you are sti
 - [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
 
 ## Materials Used
-- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js)
+- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js){:target="_blank"}
 - [Google slides](https://docs.google.com/presentation/d/1kPFWjKlhi4YeF5xuIew6HEKb0WsRfBMzGw2htVahJVE/edit?usp=sharing)
 
 ## Resources
