@@ -35,7 +35,7 @@ Side Note: I would recommend to push the code regularly to Github if you are sti
 - [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
 
 ## Materials Used
-- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js){:target="_blank"}
+- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js)
 - [Google slides](https://docs.google.com/presentation/d/1kPFWjKlhi4YeF5xuIew6HEKb0WsRfBMzGw2htVahJVE/edit?usp=sharing)
 
 ## Resources
