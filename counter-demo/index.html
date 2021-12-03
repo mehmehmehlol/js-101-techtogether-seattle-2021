@@ -1,6 +1,6 @@
 <!-- Backstory:
 You are the Christmas Tree Farm manager/Software Engineer -- super busy person. You have to manage the farm by
-counting how many Christmas trees that are left with the counter app that YOU built. The initial count is 100. The Christmas Tree Farm also has an extremely generous return policy
+counting how many Christmas trees that are left with the counter app that YOU built. The initial count is 10. (We have a small farm, alright? 😭 don't judge, please.) The Christmas Tree Farm also has an extremely generous return policy
 that people can return Christmas tree. -->
 
 <html>
@@ -10,13 +10,28 @@ that people can return Christmas tree. -->
     <body>
       <div>
         <h1>People entered:</h1>
-        <h2 id="count-el">100</h2>
-        <button id="increment-btn" onclick="increment()">INCREMENT</button>
-
+        <h2 id="count-el">10</h2>
+        <!-- decrementing the count, external JS method-->
+        <!-- <button id="decrement-btn" onclick="decrement()">Decrement 🎄</button> -->
+        
+        <!-- decrementing the count, internal JS method-->
+        <button id="decrement-btn">Decrement 🎄</button>
+        <!-- <script>
+          const button = document.getElementById('decrement-btn')
+          let count = 10;
+          let countEl = document.getElementById('count-el');
+          button.addEventListener('click', (e) => {
+            if (count === 0) {
+              alert("We sold out all Christmas trees! Please come back next year!")
+              button.disabled = true; // being extremely extra here
+            } else {
+              count -= 1
+              countEl.textContent = count
+            }
+          });
+        </script> -->
         <p id="save-el">Previous entries: </p>
-        <script src="index.js">
-            nnerText
-        </script>
+        <script src="index.js"></script>
       </div>
     </body>
 </html>
