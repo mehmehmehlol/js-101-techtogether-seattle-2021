@@ -26,6 +26,12 @@ I would also include post-workshop exercise and resources that I love in this re
 
 
 ## Post-workshop bonus exercise
+
+Let's finish our story, shall we?
+
+Side Note: I would recommend to push the code to the repo regularly especially if you are still new to Git so that you can get used to the <code>git</code> command. 
+- [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
+
 - [ ] 1a. HTML: Create an "Increment" button 
 - [ ] 1b: Function: Create a function to increment the count
 - [ ] 2a. HTML: Create a "Save" button
@@ -35,9 +41,6 @@ I would also include post-workshop exercise and resources that I love in this re
 - [ ] 3b. Function: Write a function to generate random background color (hint hint: make use of hex color)
 - [ ] 3c. HTML + JS: Inside that button, think about how you can make use one of the <code>Event Listeners</code> to change the background color when you <strong>CLICK</strong> the button.
 
-
-Side Note: I would recommend to push the code regularly to Github if you are still new to Git. 
-- [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
 
 ## Materials Used
 - [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js)
