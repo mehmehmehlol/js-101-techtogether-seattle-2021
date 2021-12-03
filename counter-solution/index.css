@@ -28,6 +28,10 @@ button {
   border-radius: 5px;
 }
 
+#decrement-btn {
+  background: #C54245;
+}
+
 #increment-btn {
   background: #C54245;
 }

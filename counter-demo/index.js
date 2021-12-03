@@ -12,4 +12,4 @@ function decrement() {
     }
 }
 
-console.log(`We got ${count} Christmas trees left!  `)
+console.log(`We got ${count} Christmas trees left!`)

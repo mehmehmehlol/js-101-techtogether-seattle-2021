@@ -1,17 +1,15 @@
-let count = 0
-let saveEl = document.getElementById("save-el")
-let countEl = document.getElementById("count-el")
+let count = 10
+let countEl = document.getElementById("count-el");
 
-function increment() {
-    count += 1
-    countEl.textContent = count
+const decrementBtn = document.getElementById("decrement-btn");
+
+function decrement() {
+    if (count === 0) {
+        alert("We sold out all Christmas trees! Please come back next year!")
+    } else {
+        count -= 1
+        countEl.textContent = count
+    }
 }
 
-function save() {
-    let countStr = count + " - "
-    saveEl.textContenttStr
-    countEl.textContent = 0
-    count = 0
-}
-
-console.log("Let's count people on the subway!")
+console.log(`We got ${count} Christmas trees left!`)
