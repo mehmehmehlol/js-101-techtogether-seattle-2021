@@ -1,5 +1,6 @@
-# Intro to JavaScriptd by Megan Lo
-Intro to JavaScript only for TechTogether Seattle 2021
+# Intro to JavaScript by Megan Lo
+Intro to JavaScript (for TechTogether Seattle 2021)
+<br/>
 <b>Prerequsite: Understood basic HTML/CSS</b>
 
 ## Introduction
