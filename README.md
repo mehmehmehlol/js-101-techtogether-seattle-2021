@@ -14,13 +14,14 @@ I would also include post-workshop exercise and resources that I love in this re
 ✨ Disclaimer: Code Reference from [Scrimba's Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
 
 - Syntax of JavaScript
-  - console log the output
+  - <code>console.log</code> the output
   - Data types -- numbers, strings, booleans, array...; 
   - Variable Declaration
-  - conditions -- if/else, if/else if/else, for loops;
+  - conditions -- <code>if/else</code>, <code>if/else if/else</code>, <code>for</code> loops;
   - function;
   - show some Math method?
-- String Template Literal
+  - String Template Literal
+  - Event Listener
 
 - Bonus: [to do list for me]: create a simple website -- counter -- demonstrate all the stuff above + querySelector, querySelectorAll, ElementById
 
@@ -33,17 +34,16 @@ Side Note: I would recommend to push the code to the repo regularly especially i
 👉🏻 [Slides From Maryam's Intro to Github](https://docs.google.com/presentation/d/1d9IXs8fQDumiahEs-fzCiGaOyj_io0-m/edit#slide=id.p5) 
 
 - [ ] 1a. HTML: Create an <code>Increment</code> button 
-- [ ] 1b: Function: Create a function to increment the count
-<br/>
+- [ ] 1b: Function: Create a function to increment the count<br/><br/>
+
 - [ ] 2a. HTML: Create a <code>Save</code> button
-- [ ] 2b. Function: Create a function to display all the saved numbers (In this format: 3 - 4 - 1 etc.)
-- [ ] 2c. (Bonus) Function + Array Manipulation + for loops: We want to see how many trees left by the end of the day. Make use of for loops and array to help you acheive that. (I am sure there's a better way, but this is a practice on array manipulation.) When you hit the button, the number displayed on the screen will PUSH to an array.
-<br/>
-<strong>Ready up your game?</strong>
+- [ ] 2b. Function: Create a function to display all the saved numbers (In this format: <code>3 - 4 - 1</code> etc.)
+- [ ] 2c. (Bonus) Function + Array Manipulation + for loops: We want to see how many trees left by the end of the day. Make use of for loops and array to help you acheive that. (I am sure there's a better way, but this is a practice on array manipulation.) When you hit the button, the number displayed on the screen will PUSH to an array.<br/><br/>
+
 - [ ] 3. (did not cover this in the workshop) Google what <code>Event Listener</code> is and understand what it is.
 - [ ] 3a. HTML: Create a <code>Change Background Color</code> button
 - [ ] 3b. Function: Write a function to generate random background color (hint hint: make use of hex color)
-- [ ] 3c. HTML + JS: Inside that button, think about how you can make use one of the <code>Event Listeners</code> to change the background color when you <strong>CLICK</strong> the button.
+- [ ] 3c. HTML + JS: Inside that button, think about how you can make use one of the <code>Event Listeners</code> to change the background color when you <strong>CLICK</strong> the button.<br/><br/>
 
 
 ## Materials Used
