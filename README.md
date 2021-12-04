@@ -53,6 +53,7 @@ Side Note: I would recommend to push the code to the repo regularly especially i
 
 ## Resources
 - [GeeksforGeeks](https://www.geeksforgeeks.org/introduction-to-javascript/)
+- [Scrimba's Learn JavaScript For Free](https://scrimba.com/learn/learnjavascript)
 
 ---
 Written by: Megan Lo
