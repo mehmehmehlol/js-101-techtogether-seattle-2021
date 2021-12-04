@@ -17,7 +17,7 @@ I would also include post-workshop exercise and resources that I love in this re
   - console log the output
   - Data types -- numbers, strings, booleans, array...; 
   - Variable Declaration
-  - conditions -- if/else, for loops;
+  - conditions -- if/else, if/else if/else, for loops;
   - function;
   - show some Math method?
 - String Template Literal
@@ -34,8 +34,12 @@ Side Note: I would recommend to push the code to the repo regularly especially i
 
 - [ ] 1a. HTML: Create an <code>Increment</code> button 
 - [ ] 1b: Function: Create a function to increment the count
+<br/>
 - [ ] 2a. HTML: Create a <code>Save</code> button
-- [ ] 2b. Function + Array Manipulation: When you hit the button, the number displayed on the screen will PUSH to an array
+- [ ] 2b. Function: Create a function to display all the saved numbers (In this format: 3 - 4 - 1 etc.)
+- [ ] 2c. (Bonus) Function + Array Manipulation + for loops: We want to see how many trees left by the end of the day. Make use of for loops and array to help you acheive that. (I am sure there's a better way, but this is a practice on array manipulation.) When you hit the button, the number displayed on the screen will PUSH to an array.
+<br/>
+<strong>Ready up your game?</strong>
 - [ ] 3. (did not cover this in the workshop) Google what <code>Event Listener</code> is and understand what it is.
 - [ ] 3a. HTML: Create a <code>Change Background Color</code> button
 - [ ] 3b. Function: Write a function to generate random background color (hint hint: make use of hex color)
@@ -43,7 +47,7 @@ Side Note: I would recommend to push the code to the repo regularly especially i
 
 
 ## Materials Used
-- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101#index.js)
+- [replit.com](https://replit.com/@mehmehmehlol/JavaScript-101-TechTogether-Seattle-2021#index.js)
 - [Google slides](https://docs.google.com/presentation/d/1kPFWjKlhi4YeF5xuIew6HEKb0WsRfBMzGw2htVahJVE/edit?usp=sharing)
 
 ## Resources

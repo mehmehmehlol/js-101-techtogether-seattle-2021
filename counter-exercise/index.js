@@ -12,4 +12,14 @@ function decrement() {
     }
 }
 
+// add increment() under this line
+function increment() {
+
+}
+
+// add save() under this line
+function save() {
+
+}
+
 console.log(`We got ${count} Christmas trees left!`)
