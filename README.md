@@ -15,15 +15,14 @@ I would also include post-workshop exercise and resources that I love in this re
 
 - Syntax of JavaScript
   - <code>console.log</code> the output
-  - Data types -- numbers, strings, booleans, array...; 
-  - Variable Declaration
+  - Data types: numbers, strings, booleans, array...; 
+  - Variable Declaration: <code>var</code>, <code>let</code>, <code>const</code>
   - conditions -- <code>if/else</code>, <code>if/else if/else</code>, <code>for</code> loops;
   - function;
-  - show some Math method?
-  - String Template Literal
-  - Event Listener
+  - String Template Literal;
+  - [Briefly touch on] Event Listeners
 
-- Bonus: [to do list for me]: create a simple website -- counter -- demonstrate all the stuff above + querySelector, querySelectorAll, ElementById
+<!-- - Bonus: [to do list for me]: create a simple website -- counter -- demonstrate all the stuff above + querySelector, querySelectorAll, ElementById -->
 
 
 ## Post-workshop bonus exercise
