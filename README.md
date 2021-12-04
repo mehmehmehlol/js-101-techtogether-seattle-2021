@@ -39,8 +39,10 @@ Side Note: I would recommend to push the code to the repo regularly especially i
 - [ ] 2b. Function: Create a function to display all the saved numbers (In this format: <code>3 - 4 - 1</code> etc.)
 - [ ] 2c. (Bonus) Function + Array Manipulation + for loops: We want to see how many trees left by the end of the day. Make use of for loops and array to help you acheive that. (I am sure there's a better way, but this is a practice on array manipulation.) When you hit the button, the number displayed on the screen will PUSH to an array.<br/><br/>
 
-- [ ] 3. (did not cover this in the workshop) Google what <code>Event Listener</code> is and understand what it is.
+⭐️ Super bonus exercise ⭐️<br/><br/>
+- [ ] 3. (Barely covered this in the workshop) Google what <code>Event Listener</code> is and understand what it is.
 - [ ] 3a. HTML: Create a <code>Change Background Color</code> button
+- [ ] 3b. Look into a Math method called <code>Math.random()</code>
 - [ ] 3b. Function: Write a function to generate random background color (hint hint: make use of hex color)
 - [ ] 3c. HTML + JS: Inside that button, think about how you can make use one of the <code>Event Listeners</code> to change the background color when you <strong>CLICK</strong> the button.<br/><br/>
 
